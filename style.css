@@ -20,12 +20,12 @@ main{
     animation: lineMove 5s linear infinite;
 }
 .elem{
-    width: 200px;
-    height: 250px;
+    width: 170px;
+    height: 200px;
     border-radius: 20px;
     overflow: hidden;
     display: inline-block;
-    margin: 5px;
+    margin: 8px;
 
 }
 .elem img{
